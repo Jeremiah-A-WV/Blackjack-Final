@@ -1,0 +1,7 @@
+
+
+*.ctxt
+*.class
+*.txt
+*.TXT
+.DS_Store
